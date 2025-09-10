@@ -1,2 +1,1 @@
-# LearnGoByTesting
-Test Repo for learn-go-with-test
+https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/hello-world
